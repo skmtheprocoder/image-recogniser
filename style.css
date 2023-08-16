@@ -1,0 +1,22 @@
+body{
+    color: #438d94;
+    background-color: antiquewhite;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.heading{
+    font-size: 22px;
+    width: 80%;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: #000000;
+}
+
